@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { useParams, useSearchParams, useNavigate } from 'react-router-dom'
+import { useParams, useNavigate } from 'react-router-dom'
 
 interface Round {
   speaker: 'user' | 'ai'
