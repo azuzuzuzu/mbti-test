@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(go mod:*)",
+      "Bash(node:*)",
+      "Bash(sudo apt:*)",
+      "Bash(curl:*)",
+      "Bash(wget:*)",
+      "Bash(tar:*)",
+      "Bash(export:*)",
+      "Bash(git:*)"
+    ]
+  }
+}
